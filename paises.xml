@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Listapaises>
+    <pais>
+        <nombre_pais>Belice</nombre_pais>
+        <nombre_presi>Froyla Tzalam</nombre_presi>
+        <pib>1987</pib>
+        <gini>53.3</gini>
+    </pais>
+    <pais>
+        <nombre_pais>El Salvador</nombre_pais>
+        <nombre_presi>Nayib Bukele</nombre_presi>
+        <pib>74818</pib>
+        <gini>38.8</gini>
+    </pais>
+    <pais>
+        <nombre_pais>Guatemala</nombre_pais>
+        <nombre_presi>Alejandro Giammattei</nombre_presi>
+        <pib>185473</pib>
+        <gini>48.3</gini>
+    </pais>
+    <pais>
+        <nombre_pais>Honduras</nombre_pais>
+        <nombre_presi>Xiomara Castro</nombre_presi>
+        <pib>85625</pib>
+        <gini>48.2</gini>
+    </pais>
+    <pais>
+        <nombre_pais>México</nombre_pais>
+        <nombre_presi>Daniel Ortega</nombre_presi>
+        <pib>47770</pib>
+        <gini>46.2</gini>
+    </pais>
+    <pais>
+        <nombre_pais>Panamá</nombre_pais>
+        <nombre_presi>Andres Manuel Lopez Obrador</nombre_presi>
+        <pib>2890685</pib>
+        <gini>45.4</gini>
+    </pais>
+    <pais>
+        <nombre_pais>Costa Rica</nombre_pais>
+        <nombre_presi>Laurentino Cortizo</nombre_presi>
+        <pib>128500</pib>
+        <gini>50.9</gini>
+    </pais>
+</Listapaises>
