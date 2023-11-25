@@ -7,15 +7,17 @@ public class Pais_serializable implements Serializable {
     private String pib;
     private String gini;
 
-    public String getNombre_pais() {
-        return nombre_pais;
-    }
-
+    // Constructor
     public Pais_serializable(String nombrepais, String presidente, String PIB, String gini) {
         this.nombre_pais = nombrepais;
         this.nombre_presi = presidente;
         this.pib = PIB;
         this.gini = gini;
+    }
+
+    // Métodos Getter y Setter
+    public String getNombre_pais() {
+        return nombre_pais;
     }
 
     public void setNombre_pais(String nombre_pais) {

@@ -47,5 +47,6 @@
     </orderEntry>
     <orderEntry type="library" name="xstream-1.4.20" level="project" />
     <orderEntry type="library" name="hsqldb-osgi-jdk8" level="application" />
+    <orderEntry type="library" name="hsqldb" level="project" />
   </component>
 </module>

@@ -19,7 +19,6 @@ public class Maindao {
         d1.createTable();
         XStream xs = new XStream(new DomDriver());
         try {
-
             // Permissions and allowed type configuration
             xs.addPermission(com.thoughtworks.xstream.security.NoTypePermission.NONE);
             xs.addPermission(com.thoughtworks.xstream.security.NullPermission.NULL);
@@ -66,7 +65,6 @@ public class Maindao {
 
         System.out.println("--------------------------------------------");
 
-
         // Reducir el coeficiente de Gini de algunos países
         d1.reducirGini("El Salvador");
         d1.reducirGini("Honduras");
@@ -74,8 +72,5 @@ public class Maindao {
         d1.buscar("Honduras");
         d1.buscar("México");
         d1.buscar("El Salvador");
-
     }
-
 }
-
